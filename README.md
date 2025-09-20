@@ -1,4 +1,17 @@
 # Propuesta de software para **SoFac Bar la 27**
+---
+
+**Changelog**
+
+-**Versión 1.0:** Creación inicial documento (Inicio/Propuesta comercial)
+
+-**Versión 1.1:** Correcciones propuesta comercial
+
+-**Versión 2.0:** Creación historias de usuario (versión 1.0 de las HU)
+
+
+---
+
 **Versión 2.0**
 
 Este repositorio contiene la propuesta de software presentada por **Aurea Innovaciones** para el proyecto de **SoFac Bar la 27**, orientado a la gestión de inventarios, pedidos, pagos y usuarios mediante una plataforma web segura y escalable.
@@ -35,14 +48,14 @@ El sistema estará diseñado bajo estándares internacionales de seguridad como 
 
 **Monitoreo/** → (Carpeta vacía)
 
-**Ejecucion/** → (Carpeta vacía)
+**Ejecucion/** → contiene las 11 historias de usuario
 
 **Cierre/** → (Carpeta vacía)
 
 ---
 
 ## Estado
-Documento actualizado el **1 de septiembre de 2025**  
+Documento actualizado el **19 de septiembre de 2025**  
 Versión actual: **2.0**  
 
 ---
